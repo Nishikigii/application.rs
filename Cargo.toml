@@ -1,7 +1,11 @@
 [package]
 name = "application"
 version = "0.0.0"
+description = "application standard"
 edition = "2021"
-
+license = "MIT"
+repository = "https://github.com/Nishikigii/application.rs"
+authors = ["nishikigii", "andei_buite"]
+keywords = ["nishikigii", "application"]
 
 [dependencies]
